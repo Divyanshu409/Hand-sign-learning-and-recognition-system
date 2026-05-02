@@ -13,7 +13,7 @@ This project focuses on making sign language learning interactive through real-t
 
 ## 📸 Demo
 Project demo is available on LinkedIn:  
-https://www.linkedin.com/in/your-profile
+(GIVEN BELOW)
 
 ## ⚠️ Note
 This is a limited public version of the project.  
